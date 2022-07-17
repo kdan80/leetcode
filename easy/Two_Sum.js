@@ -27,4 +27,4 @@ const target = 21;
 
 const arr = twoSum(nums,target)
 
-console.log(arr);
+console.log(`The answer is: ${arr}`);
