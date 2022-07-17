@@ -12,7 +12,6 @@
 
 var twoSum = function(nums, target) {
     let arr = [];
-    let n, o;
 
     for(let i = 0; i < nums.length; i++){
         for(let j = i + 1; j <= nums.length; j++){
@@ -23,8 +22,8 @@ var twoSum = function(nums, target) {
 };
 
 const nums = [1,4,12,16,5];
-const target = 21;
+const target = 28;
 
 const arr = twoSum(nums,target)
 
-console.log(`The answer is: ${arr}`);
+console.log(`The answer is: [${arr}]`);
