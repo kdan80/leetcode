@@ -22,12 +22,11 @@ var removeDuplicates = function(nums) {
             i--;
         }
     }
-    return nums;
 };
 
 //nums = [0,0,1,1,1,2,2,2,3,3,3,4]
 nums = [1,1,2]
 
-const newNums = removeDuplicates(nums);
+removeDuplicates(nums);
 
-console.log("new arr:", newNums)
+console.log("new arr:", nums)
