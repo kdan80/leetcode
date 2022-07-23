@@ -3,6 +3,14 @@
 # This file will need to have the execute permission set
 # chmod +x ./LongestCommonPrefix.py
 
+
+#---------------------------------------------------------#
+#                                                         #
+#  Find the longest common prefix in an array of strings  #
+#                                                         #
+#---------------------------------------------------------#
+
+
 class Solution(object):
     def longestCommonPrefix(self, strs):
         res = ""
