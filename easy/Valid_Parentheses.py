@@ -4,11 +4,11 @@
 # chmod +x ./LongestCommonPrefix.py
 
 
-#-----------------------------------------#
-#                                         #
-#  Convert a Roman numeral to an integer  #
-#                                         #
-#-----------------------------------------#
+#---------------------------------------------------------#
+#                                                         #
+#  Check if parentheses in a string are paired correctly  #
+#                                                         #
+#---------------------------------------------------------#
 
 class Solution:
     def isValid(self, s):
