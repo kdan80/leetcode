@@ -39,5 +39,5 @@ class Solution:
         return -1
 
 s = Solution()
-res = s.strStr('ello', 'hello')
+res = s.strStr('hello', 'llo')
 print(res)
