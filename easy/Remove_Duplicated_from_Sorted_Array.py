@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 # This file will need to have the execute permission set
-# chmod +x ./LongestCommonPrefix.py
+# chmod +x ./Remove_Duplicated_from_Sorted_Array.py
 
 
 #------------------------------------------------------------------------------#
