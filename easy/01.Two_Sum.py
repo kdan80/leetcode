@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 # This file will need to have the execute permission set
-# chmod +x ./Two_Sum.py
+# chmod +x ./01.Two_Sum.py
 
 
 #------------------------------------------------------------------#

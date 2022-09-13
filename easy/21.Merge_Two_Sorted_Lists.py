@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 # This file will need to have the execute permission set
-# chmod +x ./Merge_Two_Sorted_Lists.py
+# chmod +x ./21.Merge_Two_Sorted_Lists.py
 
 
 #-----------------------------------------------------------------------#

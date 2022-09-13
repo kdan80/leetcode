@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 # This file will need to have the execute permission set
-# chmod +x ./Valid_Parentheses.py
+# chmod +x ./20.Valid_Parentheses.py
 
 
 #---------------------------------------------------------#

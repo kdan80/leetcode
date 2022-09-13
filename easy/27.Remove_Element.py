@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 # This file will need to have the execute permission set
-# chmod +x ./Remove_Element.py
+# chmod +x ./27.Remove_Element.py
 
 
 #------------------------------------------------------------------------------#

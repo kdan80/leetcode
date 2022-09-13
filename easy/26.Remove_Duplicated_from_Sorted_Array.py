@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 # This file will need to have the execute permission set
-# chmod +x ./Remove_Duplicated_from_Sorted_Array.py
+# chmod +x ./26.Remove_Duplicated_from_Sorted_Array.py
 
 
 #------------------------------------------------------------------------------#

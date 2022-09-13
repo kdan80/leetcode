@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 # This file will need to have the execute permission set
-# chmod +x ./Length_Of_Last_word.py
+# chmod +x ./58.Length_Of_Last_word.py
 
 
 #--------------------------------------------------#

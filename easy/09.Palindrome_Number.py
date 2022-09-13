@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 # This file will need to have the execute permission set
-# chmod +x ./Palindrome_Number.py
+# chmod +x ./09.Palindrome_Number.py
 
 
 #----------------------------------------------------------------#
